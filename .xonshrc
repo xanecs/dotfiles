@@ -1,0 +1,1 @@
+$PROMPT = "{{INTENSE_PURPLE}}▲{{NO_COLOR}} {cwd} {gitstatus} {prompt_end} "

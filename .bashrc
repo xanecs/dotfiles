@@ -117,3 +117,6 @@ if ! shopt -oq posix; then
 fi
 
 . $HOME/.bashrc.d/index.bash
+
+# added by travis gem
+[ -f /home/leon/.travis/travis.sh ] && source /home/leon/.travis/travis.sh
